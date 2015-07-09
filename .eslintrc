@@ -139,5 +139,10 @@
     "space-infix-ops": 2,            // http://eslint.org/docs/rules/space-infix-ops
     "space-return-throw-case": 2,    // http://eslint.org/docs/rules/space-return-throw-case
     "spaced-line-comment": 2,        // http://eslint.org/docs/rules/spaced-line-comment
+
+/**
+ * Other
+ */
+    "no-path-concat": 0,             // http://eslint.org/docs/rules/no-path-concat
   }
 }
