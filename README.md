@@ -1,5 +1,7 @@
 # my .eslintrc (ES5 related)
 
+**DEPRECATED** in favor of [alessioalex-standard](https://github.com/alessioalex/standard).
+
 A fork of [the AirBnB JavaScript style guide](https://github.com/airbnb/javascript/blob/master/linters/.eslintrc) rules for [eslint](https://github.com/eslint/eslint), with the following changes:
 
 - removed ES6 / babel / react stuff
